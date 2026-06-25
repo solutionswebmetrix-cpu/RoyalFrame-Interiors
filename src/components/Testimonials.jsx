@@ -13,7 +13,7 @@ const testimonials = [
     name: 'Priya Sharma',
     role: 'Homeowner',
     image: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=200&q=80',
-    text: 'RoyalFrame Interiors transformed our home into a dream space. Their attention to detail and quality of work is exceptional.',
+    text: 'House Design Studio transformed our home into a dream space. Their attention to detail and quality of work is exceptional.',
   },
   {
     id: 2,
@@ -27,7 +27,7 @@ const testimonials = [
     name: 'Anita Desai',
     role: 'Architect',
     image: 'https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=200&q=80',
-    text: 'Working with RoyalFrame was a pleasure. Their creativity and craftsmanship are top-notch.',
+    text: 'Working with House Design Studio was a pleasure. Their creativity and craftsmanship are top-notch.',
   },
   {
     id: 4,

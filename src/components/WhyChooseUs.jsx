@@ -81,7 +81,7 @@ const WhyChooseUs = () => {
       <div className="container">
         <div className="section-header">
           <h6 className="section-subtitle">Why Choose Us</h6>
-          <h2 className="section-title">The RoyalFrame Advantage</h2>
+          <h2 className="section-title">The House Design Studio Advantage</h2>
         </div>
         <div className="features-grid">
           {features.map((feature, index) => (
