@@ -1,0 +1,52 @@
+.process {
+  padding: 120px 0;
+  background: var(--white);
+}
+
+.process-steps {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 50px;
+  position: relative;
+}
+
+.process-step {
+  text-align: center;
+  padding: 40px 30px;
+  position: relative;
+}
+
+.step-number {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 72px;
+  font-weight: 700;
+  color: var(--primary);
+  opacity: 0.2;
+  margin-bottom: -20px;
+}
+
+.step-title {
+  font-size: 24px;
+  color: var(--secondary);
+  margin-bottom: 15px;
+  position: relative;
+  z-index: 1;
+}
+
+.step-desc {
+  font-size: 15px;
+  color: var(--text);
+  line-height: 1.7;
+}
+
+@media (max-width: 992px) {
+  .process-steps {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 576px) {
+  .process-steps {
+    grid-template-columns: 1fr;
+  }
+}
