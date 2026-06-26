@@ -1,7 +1,7 @@
 import React, { useEffect, useRef } from 'react';
 import gsap from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
-import { FaPhone, FaEnvelope, FaMapMarkerAlt, FaClock } from 'react-icons/fa';
+import { FaPhone, FaEnvelope, FaMapMarkerAlt, FaClock, FaInstagram } from 'react-icons/fa';
 import './Contact.css';
 
 gsap.registerPlugin(ScrollTrigger);
@@ -92,7 +92,8 @@ const Contact = () => {
               </div>
               <div className="info-content">
                 <h4>Phone</h4>
-                <p>+91 98765 43210</p>
+                <p>+91 9315236194</p>
+                <p>+91 7838878198</p>
               </div>
             </div>
             <div className="info-item">
@@ -101,7 +102,16 @@ const Contact = () => {
               </div>
               <div className="info-content">
                 <h4>Email</h4>
-                <p>info@royalframeinteriors.com</p>
+                <p>sarifshaikh11646@gmail.com</p>
+              </div>
+            </div>
+            <div className="info-item">
+              <div className="info-icon">
+                <FaInstagram />
+              </div>
+              <div className="info-content">
+                <h4>Instagram</h4>
+                <p><a href="https://www.instagram.com/sarifshaikh11646?utm_source=qr&igsh=c2dsMTBqbXJwczEx" target="_blank" rel="noopener noreferrer" style={{ color: 'inherit', textDecoration: 'none' }}>@sarifshaikh11646</a></p>
               </div>
             </div>
             <div className="info-item">

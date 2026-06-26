@@ -25,7 +25,7 @@ const Footer = () => {
                 <a href="#">
                   <FaFacebookF />
                 </a>
-                <a href="#">
+                <a href="https://www.instagram.com/sarifshaikh11646?utm_source=qr&igsh=c2dsMTBqbXJwczEx" target="_blank" rel="noopener noreferrer">
                   <FaInstagram />
                 </a>
                 <a href="#">
@@ -92,7 +92,7 @@ const Footer = () => {
           </div>
         </div>
       </footer>
-      <a href="https://wa.me/919876543210" className="whatsapp-float" target="_blank" rel="noopener noreferrer">
+      <a href="https://wa.me/919315236194" className="whatsapp-float" target="_blank" rel="noopener noreferrer">
         <FaWhatsapp />
       </a>
     </>
