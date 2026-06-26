@@ -72,7 +72,7 @@ const Hero = () => {
       <div className="hero-overlay"></div>
       <div className="hero-content">
         <h1 className="hero-title" ref={titleRef}>
-          House Design Studio
+          RoyalFrame Interiors
         </h1>
         <h2 className="hero-subtitle" ref={subtitleRef}>
           Luxury Interior Design & Space Transformation

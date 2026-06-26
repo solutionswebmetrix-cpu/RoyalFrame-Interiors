@@ -32,7 +32,7 @@ const Navbar = () => {
     <nav className={`navbar ${scrolled ? 'scrolled' : ''}`}>
       <div className="navbar-container">
         <a href="#" onClick={handleLinkClick} className="navbar-logo">
-          House Design<span>Studio</span>
+          RoyalFrame<span>Interiors</span>
         </a>
         <div className="menu-toggle" onClick={() => setIsOpen(!isOpen)}>
           {isOpen ? <FaTimes /> : <FaBars />}

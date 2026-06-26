@@ -16,7 +16,7 @@ const Footer = () => {
           <div className="footer-grid">
             <div className="footer-col">
               <h3 className="footer-logo">
-                House<span>Design Studio</span>
+                RoyalFrame<span>Interiors</span>
               </h3>
               <p className="footer-desc">
                 Crafting elegant spaces and building timeless interiors with premium craftsmanship and innovative design.
@@ -88,7 +88,7 @@ const Footer = () => {
             </div>
           </div>
           <div className="footer-bottom">
-            <p>&copy; 2024 House Design Studio. All rights reserved.</p>
+            <p>&copy; 2024 RoyalFrame Interiors. All rights reserved.</p>
           </div>
         </div>
       </footer>

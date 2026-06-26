@@ -67,7 +67,7 @@ const About = () => {
           <div className="about-image" ref={imageRef}>
             <img
               src="https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=800&q=80"
-              alt="About House Design Studio"
+              alt="About RoyalFrame Interiors"
             />
             <div className="image-decoration"></div>
           </div>
@@ -75,7 +75,7 @@ const About = () => {
             <h6 className="section-subtitle">About Us</h6>
             <h2 className="section-title">Crafting Elegant Spaces, Building Timeless Interiors</h2>
             <p className="about-text">
-              At House Design Studio, we transform spaces into extraordinary living and working environments. With years of experience in luxury interior design, we combine creativity, craftsmanship, and attention to detail to deliver exceptional results.
+              At RoyalFrame Interiors, we transform spaces into extraordinary living and working environments. With years of experience in luxury interior design, we combine creativity, craftsmanship, and attention to detail to deliver exceptional results.
             </p>
             <p className="about-text">
               Our team of skilled designers and craftsmen work closely with clients to understand their vision and bring it to life with premium materials and innovative solutions.
